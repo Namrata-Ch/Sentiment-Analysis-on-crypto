@@ -7,7 +7,7 @@ This project focuses on performing sentiment analysis on cryptocurrency-related 
 1.6 million Twitter tweets dataset (from Kaggle)
 ~36,000 cryptocurrency news articles dataset
 
-# The goal is to analyze public and media sentiment toward cryptocurrencies (e.g., Bitcoin, Ethereum) and uncover trends that may influence market behavior.
+ The goal is to analyze public and media sentiment toward cryptocurrencies (e.g., Bitcoin, Ethereum) and uncover trends that may influence market behavior.
 
 # Datasets
 1. Twitter Sentiment Dataset
